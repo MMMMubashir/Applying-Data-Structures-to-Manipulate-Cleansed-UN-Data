@@ -3,7 +3,7 @@ This is the simple project in which an application that processes an UN dataset,
 
 Overview
 
-Arrays
+.Arrays
 ArrayLists
 LinkedLists
 Stacks
