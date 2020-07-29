@@ -6,14 +6,14 @@ Overview
 
 Arrays                  
 
-  ArrayLists    
+ArrayLists    
 
-    LinkedLists
+LinkedLists
 
-      Stacks
+Stacks
 
-         Queues
+Queues
 
-            Hashtables
+Hashtables
 
-                Miscellaneous Collections Methods and Application Demo
+Miscellaneous Collections Methods and Application Demo
