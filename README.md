@@ -1,19 +1,19 @@
 # Applying Data Structures to Manipulate Cleansed UN Data
 This is the simple project in which an application that processes an UN dataset, I manipulate it using a variety of different data structures. In addition, I explore how to implement each data structure using industry-standard Java practices, and gain experience manipulating real life data sets.
 
-Overview 
+======== Overview ========
 
 
-Arrays                  
+1) Arrays                  
 
-ArrayLists    
+2) ArrayLists    
 
-LinkedLists
+3) LinkedLists
 
-Stacks
+4) Stacks
 
-Queues
+5) Queues
 
-Hashtables
+6) Hashtables
 
-Miscellaneous Collections Methods and Application Demo
+7) Miscellaneous Collections Methods and Application Demo
